@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nashil Dayanand</h1>
-<h3 align="center">A student from South Africa, who is studying at AUC</h3>
+<h3 align="center">A student from South Africa, who is studying at The American University in Cairo</h3>
 
 - 📫 How to reach me **nashild@aucegypt.edu**
 
